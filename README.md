@@ -1,3 +1,3 @@
 # python-code
-This is my first python git repository
+This is my first python git repository,
 Author-Zeenat Ullah
